@@ -5,7 +5,7 @@ int main()
 {
         int rdnum1, rdnum2, rdnum3;
         int result;
-
+ 
         srand(time(0));
 
         rdnum1 = getRandom();
